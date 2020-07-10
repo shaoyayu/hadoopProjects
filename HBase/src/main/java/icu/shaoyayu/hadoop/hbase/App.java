@@ -1,4 +1,4 @@
-package icu.shaoyayu.hadoop;
+package icu.shaoyayu.hadoop.hbase;
 
 /**
  * Hello world!
