@@ -1,0 +1,3 @@
+# Project exclude paths
+/hdfsApi/target/
+/mapReduceApi/target/
