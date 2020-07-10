@@ -3,6 +3,7 @@ package icu.shaoyayu.hadoop.hbase;
 /**
  * Hello world!
  *
+ * @author shaoyayu
  */
 public class App 
 {
