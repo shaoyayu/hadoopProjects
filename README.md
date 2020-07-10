@@ -1,0 +1,2 @@
+# hadoopProjects
+Initialize the project
